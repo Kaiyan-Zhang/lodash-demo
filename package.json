@@ -1,0 +1,24 @@
+{
+  "name": "lodash-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiyan-Zhang/lodash-demo.git"
+  },
+  "keywords": [],
+  "author": "zhangkaiyan.3 <zhangkaiyan.3@bytedance.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaiyan-Zhang/lodash-demo/issues"
+  },
+  "homepage": "https://github.com/Kaiyan-Zhang/lodash-demo#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

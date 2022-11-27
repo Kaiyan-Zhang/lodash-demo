@@ -1,6 +1,6 @@
 # lodash-demo
 
-# 01-obj2arr
+# 01-values
 ```
 pnpm start
 ```
